@@ -39,6 +39,10 @@ body {
 #post{
     padding: 1em;
 }
+#imagen img{
+    width: 200px;
+    height: 100px;
+}
 
 #footer{
     height: 30px;
